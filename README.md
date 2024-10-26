@@ -7,6 +7,7 @@
  - Payment page
 
 # Features
+  - Installation fo tailwind for css
   - product display in home page
   - courosal 
   - 
